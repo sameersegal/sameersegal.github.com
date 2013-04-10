@@ -1,0 +1,13 @@
+markdown: rdiscount
+pygments: true
+permalink: /posts/:title
+auto: true
+rdiscount:
+  extensions: [smart]
+
+name: Sameer Segal
+url: http://sameersegal.github.io
+description: Hackers for Impact.
+twitter: sameersegal
+github: sameersegal
+gravatar_url: http://gravatar.com/avatar/4a3cc45f2c6af14087c2e365341b1b02

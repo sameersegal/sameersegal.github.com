@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Sameer Segal</title>
+ <link href="http://sameersegal.github.io/atom.xml" rel="self"/>
+ <link href="http://sameersegal.github.io/"/>
+ <updated>2013-04-10T17:53:31+05:30</updated>
+ <id>http://sameersegal.github.io</id>
+ <author>
+   <name>Sameer Segal</name>
+ </author>
+ 
+ 
+ <entry>
+   <title>Hackers for Impact</title>
+   <link href="http://sameersegal.github.io/posts/Hackers-for-Impact"/>
+   <updated>2013-04-14T00:00:00+05:30</updated>
+   <id>http://sameersegal.github.io/posts/Hackers-for-Impact</id>
+   <content type="html">&lt;p&gt;This placeholder text for an essay on Hackers for Impact. Some serious and deep thoughts&amp;hellip;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>
