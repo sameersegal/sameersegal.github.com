@@ -6,6 +6,8 @@ category: posts
 
 ![A hero. Not the hero we deserved but the hero we needed. Nothing less than a knight. Shining.](/images/posts/dark-knights/wallpaper_burning_1280.jpg)
 
+> "A hero. Not the hero we deserved but the hero we needed. Nothing less than a knight. Shining."
+
 It’s an exciting time to be alive, especially in India. Everything we know is getting disrupted—except, of course, for the higher technical education. 75% of all graduates in India are engineers who, after spending 60+ hours a week for 2 years trying to get into engineering programs, spend 4 years wondering how to get as far as possible away from it. I know this well because this is my story too.
 
 Why? I’m still not completely sure. Is it something to do with how our educational institutions work? Something to do with the fact that learning something by heart doesn’t make you love it? That the only way to think originally is see how the world works and how you can work within it? Perhaps, at the end of the day, we all want to do work that we believe is meaningful.
