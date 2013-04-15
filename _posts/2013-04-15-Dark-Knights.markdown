@@ -8,6 +8,10 @@ category: posts
 
 > "Because he's the hero Gotham deserves, but not the one it needs right now. So we'll hunt him. Because he can take it. Because he's not our hero. He's a silent guardian. A watchful protector. A Dark Knight." - [Lt. James Gordon][gordon]
 
+“Superman or Batman?” was the most revealing personality question when we were kids. Superman was born with super powers whereas Batman engineered them. I was a puny kid with glasses and I always picked Batman. The idea of a genius, tragic hero doing good by being a super geek always reassured me somehow. But Batman was always misunderstood by the city of Gotham. 
+
+----
+
 It’s an exciting time to be alive, especially in India. Everything we know is getting disrupted—except, of course, for the higher technical education. 75% of all graduates in India are engineers who, after spending 60+ hours a week for 2 years trying to get into engineering programs, spend 4 years wondering how to get as far as possible away from it. I know this well because this is my story too.
 
 Why? I’m still not completely sure. Is it something to do with how our educational institutions work? Something to do with the fact that learning something by heart doesn’t make you love it? That the only way to think originally is see how the world works and how you can work within it? Perhaps, at the end of the day, we all want to do work that we believe is meaningful.
@@ -24,13 +28,17 @@ Given the colossal technology divide in this sector, social enterprises often wo
 
 Over time, and rather ingeniously, users begin to improvise and enter data in ways that fool the system into supporting their unique products and services. But, unfortunately, these crafty hacks compound the problem, increasing inefficiencies, and making data and reporting almost unusable. Organizations try to solve the problem by bringing in more people, or increasing the complexity of the processes, instead of considering investing in technology.
 
-But, by the end of my summer internship at the MFI, I had managed to devise simple tech solution making life a tiny bit easier at the BoP. It was a simple software solution for preclosure of loans using SMS technology. Field agents could just send an SMS with a customer ID to query the database and they would receive an instant reply with the exact amount to be paid by the customer to preclose the loan. Something that had taken 15 days could now be done in an instant. I was overwhelmed with how happy this made customers, field agents, and the senior management. The MFI implemented this at scale. 
+But inefficiencies at the BoP, I discovered through focus group interviews with the MFI’s end customers, are often a matter of life or death. Money is an incredibly volatile commodity at the BoP. When someone receives their loan can make a world of a difference to them. Simple timing sometimes determines whether someone will be plunged into or pulled out of poverty.
+
+By the end of my summer internship at the MFI, I had managed to devise simple tech solution making life a tiny bit easier at the BoP. It was a simple software solution for preclosure of loans using SMS technology. Field agents could just send an SMS with a customer ID to query the database and they would receive an instant reply with the exact amount to be paid by the customer to preclose the loan. Something that had taken 15 days could now be done in an instant. I was overwhelmed with how happy this made customers, field agents, and the senior management. The MFI implemented this at scale. 
 
 As an intern, I was over the moon because I had built something that actually worked in the field. For the first time, I had created something that felt indisputably meaningful to me. Looking back now, I think I was also glad to have proved that it was not impossible for technology to work at the BoP. I was already more of an engineer than I acknowledged and it was during this summer internship that I discovered my passion for inclusive technology. 
 
-Technology can truly be game changing. It can help social enterprises work across larger geographies and provide more innovative products (specifically designed for particular sub-populations) with the very same field forces.  Rich demographic data can be collected and then mined for insights while developing new product offerings. Loans can be provided in less than 2 days with more rigorous credit checks than before. Overdue loans can be identified and collected within 24 hours. Field agents can be empowered to explain complex products (like insurance and pension) and topics (like solar energy versus kerosene) with the help of multimedia content. Microfinance could go from being transaction-based to being a kind of private banking for the poor.
+Technology can truly be game changing. It can help social enterprises work across larger geographies and provide more innovative products (specifically designed for particular sub-populations) with the very same field forces.  Rich demographic data can be collected and then mined for insights while developing new product offerings. Loans can be provided in less than 2 days with more rigorous credit checks than before. Overdue loans can be identified and collected within 24 hours. Field agents can be empowered to explain complex products (like insurance and pension) and topics (like solar energy versus kerosene) with the help of multimedia content. Microfinance could go from being transaction-based to being a kind of private banking for the poor. Technology could help field agents to provide end customers with customized advisory for their individual context to enable them to climb out of poverty.
 
 3 years ago, when we started Artoo, we wanted to create technology that works in the field; technology that is especially designed for social enterprises; technology that is intuitive enough to be inviting even for users with no previous exposure to computer education. We wanted to treat social enterprises as mainstream and marketable. However, given that social enterprises have had more than their fair share of disappointing brushes with technology it is difficult for them to take a leap of faith and experiment with new ideas. In the early stages only the visionaries will agree to pilots. And we are enormously grateful for their trust.
+
+Our clients were amazed, at first, with the amount of time we spent in the field understanding their work and the lives of their end customers. But we had promised ourselves when we began that we would be true partners to the social enterprises we served. Artoo is to its clients as, in the StarWars universe, [R2D2][r2d2] is to Luke Skywalker; a loyal companion for life.
 
 But, our biggest challenge of all (and this is really surprising given that 75% of all graduates in India are engineers!) has been to find people. It has been incredibly hard for us to find engineers who want to code but not work for Google and in the social enterprise sector instead (and this is surprising, too, because growing up in a developing country ourselves, isn’t it only natural for us to care about development?). We are always on the look out for bright young engineers who are passionate about technology and about creating a social impact.
 
@@ -40,13 +48,14 @@ But that summer changed my mind. I wondered why the world’s most intuitive tec
 
 Sometimes we worry about the fact that investors and network organizations draw an imaginary line between us and our partner enterprise to call us “service providers,” Because, sadly, service providers do not fit anyone’s mandates: their impact is derivative; they are seen as merely optimizing the real organization, and so on. We worry, most of all, because we wonder if this is what makes it so difficult for us recruit the handful of engineers who are motivated by impact, to motivate the majority who know little about this space and for us to raise external capital that will allow us pay market rate salaries to them.
 
-We are so much more than service providers. We see ourselves as real partners to the social enterprises we work with. We truly believe that technology can be the greatest amplifier of social impact. We are hackers for impact! 
+We are so much more than service providers. We see ourselves as real partners to the social enterprises we work with. We truly believe that technology can be the greatest amplifier of social impact. We are hackers for impact! We are the Dark Knights.
 
 > A big thank you to [Kavita][kavita] and [Indus][indus] for their edits and for many conversations to clarify my muddled thoughts.
 
 Photo Credit: [my.spill.com][spill]
 
 [gordon]:http://www.imdb.com/title/tt0468569/quotes?item=qt1784816
+[r2d2]:http://en.wikipedia.org/wiki/R2-D2
 [kavita]:https://artoo.in/portal/team#kavita
 [indus]:https://artoo.in/portal/team#indus
 [spill]:http://my.spill.com/profiles/blogs/nolans-batman-vs-burtons
