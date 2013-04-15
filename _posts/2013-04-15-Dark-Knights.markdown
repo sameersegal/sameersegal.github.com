@@ -44,6 +44,6 @@ We are so much more than service providers. We see ourselves as real partners to
 
 Photo Credit:[my.spill.com][spill]
 
-[kavita]:(https://artoo.in/portal/team#kavita)
-[indus]:(https://artoo.in/portal/team#indus)
-[spill]:(http://my.spill.com/profiles/blogs/nolans-batman-vs-burtons)
+[kavita]:https://artoo.in/portal/team#kavita
+[indus]:https://artoo.in/portal/team#indus
+[spill]:http://my.spill.com/profiles/blogs/nolans-batman-vs-burtons
