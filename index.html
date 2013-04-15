@@ -10,7 +10,7 @@ title: "Blog"
     {% for post in site.posts %}
     <li>
       <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}" class="title">{{ post.title }}</a>
-      {{ post.content | truncatewords: 50 }}
+      {{ post.content | truncatewords: 100 }}
       <a href="{{ post.url }}">Read More</a>
     </li>
     {% endfor %}
