@@ -46,7 +46,7 @@ We are so much more than service providers. We see ourselves as real partners to
 
 Photo Credit: [my.spill.com][spill]
 
-[gordon]:http://www.imdb.com/title/tt0468569/quotes?item=qt1759053
+[gordon]:http://www.imdb.com/title/tt0468569/quotes?item=qt1784816
 [kavita]:https://artoo.in/portal/team#kavita
 [indus]:https://artoo.in/portal/team#indus
 [spill]:http://my.spill.com/profiles/blogs/nolans-batman-vs-burtons
