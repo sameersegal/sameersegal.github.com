@@ -39,3 +39,11 @@ But that summer changed my mind. I wondered why the world’s most intuitive tec
 Sometimes we worry about the fact that investors and network organizations draw an imaginary line between us and our partner enterprise to call us “service providers,” Because, sadly, service providers do not fit anyone’s mandates: their impact is derivative; they are seen as merely optimizing the real organization, and so on. We worry, most of all, because we wonder if this is what makes it so difficult for us recruit the handful of engineers who are motivated by impact, to motivate the majority who know little about this space and for us to raise external capital that will allow us pay market rate salaries to them.
 
 We are so much more than service providers. We see ourselves as real partners to the social enterprises we work with. We truly believe that technology can be the greatest amplifier of social impact. We are hackers for impact! 
+
+> A big thank you to [Kavita][kavita] and [Indus][indus] for their edits and for many conversations to clarify my muddled thoughts.
+
+Photo Credit:[my.spill.com][spill]
+
+[kavita]:(https://artoo.in/portal/team#kavita)
+[indus]:(https://artoo.in/portal/team#indus)
+[spill]:(http://my.spill.com/profiles/blogs/nolans-batman-vs-burtons)
