@@ -42,7 +42,7 @@ We are so much more than service providers. We see ourselves as real partners to
 
 > A big thank you to [Kavita][kavita] and [Indus][indus] for their edits and for many conversations to clarify my muddled thoughts.
 
-Photo Credit:[my.spill.com][spill]
+Photo Credit: [my.spill.com][spill]
 
 [kavita]:https://artoo.in/portal/team#kavita
 [indus]:https://artoo.in/portal/team#indus
