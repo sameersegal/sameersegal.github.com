@@ -6,8 +6,7 @@ category: posts
 
 ![Because he's the hero Gotham deserves, but not the one it needs right now. So we'll hunt him. Because he can take it. Because he's not our hero. He's a silent guardian. A watchful protector. A Dark Knight.](/images/posts/dark-knights/wallpaper_burning_1280.jpg)
 
-> "Because he's the hero Gotham deserves, but not the one it needs right now. So we'll hunt him. Because he can take it. Because he's not our hero. He's a silent guardian. A watchful protector. A Dark Knight."
->> - [Lt. James Gordon][gordon]
+> "Because he's the hero Gotham deserves, but not the one it needs right now. So we'll hunt him. Because he can take it. Because he's not our hero. He's a silent guardian. A watchful protector. A Dark Knight." - [Lt. James Gordon][gordon]
 
 It’s an exciting time to be alive, especially in India. Everything we know is getting disrupted—except, of course, for the higher technical education. 75% of all graduates in India are engineers who, after spending 60+ hours a week for 2 years trying to get into engineering programs, spend 4 years wondering how to get as far as possible away from it. I know this well because this is my story too.
 
